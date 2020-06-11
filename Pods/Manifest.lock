@@ -1,0 +1,16 @@
+PODS:
+  - DSSlider (0.0.4)
+
+DEPENDENCIES:
+  - DSSlider
+
+SPEC REPOS:
+  trunk:
+    - DSSlider
+
+SPEC CHECKSUMS:
+  DSSlider: 1e1b57ee5e81aa19e78e9d9af4f7a3953f5dc26f
+
+PODFILE CHECKSUM: 6fd5641e8f3262c95292c28844b4a1e181d8f182
+
+COCOAPODS: 1.9.1
